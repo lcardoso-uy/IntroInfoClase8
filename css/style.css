@@ -1,0 +1,50 @@
+html {/*font-family: Times New Roman;*/
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+
+body {
+        background-color: #fff;
+
+}
+
+header {
+    background-color: #0e9ba5;
+    background-image: url('../img/Background_img.svg');
+    background-size: contain;
+    background-repeat: no-repeat; 
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+header div h1 {
+    color: #290629;
+    font-style: bold;
+    text-align: center;
+}
+
+header div {
+    background-color: #0e9ba5;
+    width: 100%;
+}
+
+.foto {
+    width: 200px;
+    border-radius: 45%;
+}  
+
+footer {
+    background-color: #E6E6E6;
+}
+
+.icono {
+    width: 40px;
+    border-radius: 5%;
+}  
+
+.linkeo {
+        text-align: right;
+}
